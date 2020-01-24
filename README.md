@@ -1,0 +1,2 @@
+# Data-Colab-Engineering-Test
+Data-Colab is a Tunisian NGO that aims to upgrade and help AI community in Tunisia, this is my work on their test to join their engineering department fortunately i was accepted. The test consists of 3 parts the first part is about computer vision and transfer learning the second part is about NLP and the third part is about general datascience and artificial intelligence.
